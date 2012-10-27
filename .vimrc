@@ -307,3 +307,4 @@ au FileType javascript call JavascriptFole()
 """"""""""""""""""""""""""""""""""
 
 " vim: set foldmethod=marker :
+
